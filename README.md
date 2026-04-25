@@ -1,4 +1,4 @@
-<p align="center"><img src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&q=80&w=1200&h=400" alt="GPT-Image2 Prompt System" width="800" /></p>
+<p align="center"><img src="./data/images/banner.svg" alt="GPT-Image2 Prompt System" width="800" /></p>
 
 <h3 align="center">Prompt as Code | GPT-Image2 工业级提示词引擎与模板库</h3>
 
